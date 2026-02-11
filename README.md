@@ -1,3 +1,8 @@
+# ¡Hola! ¡Soy Fernando! 
+Soy un desarrollador **perfeccionista** por vocación y **explorador** por distracción. Principalmente me centro en el desarrollo **backend**, aunque también tengo conocimientos básicos de **desarrollo de UX/UI**. 
+
+## Sobre mí
+Siempre me han **apasionado** los **ordenadores** y **crear cosas** desde pequeño y **no me canso** de ello. **Adoro aprender**, nunca estoy quieto. Aprendo sobre muchas materias distintas por gusto **en mis tiempos libres**, entre ellas informática y psicología. 
 
 <div align="center">
  
