@@ -14,10 +14,10 @@ Soy un desarrollador **perfeccionista** por vocación y **explorador** por distr
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=MiauDona&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&show=revithemeheme=midnight-purple"> 
 </a> -->
 
-## Lenguajes estudiados
+## Lenguajes que sé
  [![Skills](https://skillicons.dev/icons?i=kotlin,mysql,java,html,css)](https://skillicons.dev)
 
-## Lenguajes no estudiados que me gustan
+## Lenguajes que no sé bien y me gustan
   [![Skills](https://skillicons.dev/icons?i=rust,bash)](https://skillicons.dev)
 
 ## Herramientas que he usado
