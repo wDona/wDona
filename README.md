@@ -14,16 +14,16 @@ Soy un desarrollador **perfeccionista** por vocación y **explorador** por distr
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=MiauDona&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&show=revithemeheme=midnight-purple"> 
 </a> -->
 
-## Trained Languages
+## Lenguajes estudiados
  [![Skills](https://skillicons.dev/icons?i=kotlin,mysql,java,html,css)](https://skillicons.dev)
 
-## Untrained Languages that I like
+## Lenguajes no estudiados que me gustan
   [![Skills](https://skillicons.dev/icons?i=rust,bash)](https://skillicons.dev)
 
-## Tools
+## Herramientas que he usado
  [![Skills](https://skillicons.dev/icons?i=git,docker,ubuntu,figma,vscode,windows,linux)](https://skillicons.dev)
 
- ## What I want to be my stack
+ ## Cual quiero que sea mi stack
  [![Skills](https://skillicons.dev/icons?i=kotlin,ktor,mysql,git,docker)](https://skillicons.dev)
 
 ## Sobre mí
