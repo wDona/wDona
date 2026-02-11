@@ -14,14 +14,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=midnight-purple
           path: stats.svg
 
       - name: Generate Top Languages Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=midnight-purple
           path: top-langs.svg
 
       - name: Commit Changes
