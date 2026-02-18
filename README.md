@@ -30,21 +30,30 @@ Soy un desarrollador **perfeccionista** por vocación y **explorador** por distr
  ## Mi stack
  [![Skills](https://skillicons.dev/icons?i=kotlin,ktor,java,mysql,git,docker,html,css)](https://skillicons.dev)
 
- *Estoy abierto a usar otros lenguajes; Rust como preferencia de lenguaje de bajo nivel*
+ *Estoy abierto a usar otros lenguajes; Rust como preferencia de lenguaje de bajo nivel.*
 
 ## Experiencia
-- 4 años en total muy cercano al mundo de la programación en mi vida personal
- - 2 de ellos de forma académica
- - 8 meses (3 días a la semana) de FEOE
-  - 3 meses: Desarrollo de aplicaciones web con Wordpress (plugins)
-  - 5 meses: Desarrollo de aplicaciones multiplataforma y controles de acceso (físicos) a petición de cliente.
- - +1.5~ años autodidacta por entretenimiento 
+- **4 años** en total muy cercano al mundo de la programación en mi vida personal.
+  - **2-3 de ellos** de forma académica (ESO, Grado Medio, Grado Superior).
+      - **3 meses FEOE**: Desarrollo de aplicaciones web con Wordpress (plugins). (3 días a la semana)
+      - **5 meses FEOE**: Desarrollo de aplicaciones multiplataforma y controles de acceso (físicos) a petición de cliente. (3 días a la semana)
+  - **+1.5~ años** autodidacta por entretenimiento.
+
+La experiencia que yo gano **no** creo que sea **exactamente** como la que todo el mundo creería que se gana, la de **"Hago mis 8h y me voy"**. 
+Para mí, la informática es un **estilo de vida**. Eso implica que hago mis quehaceres laborales o académicos, llego a casa, y en mi **tiempo libre** a menudo acabo **haciendo cosas relacionadas con la informática**. 
+
+### Ejemplos de esto:
+- Automatizar gestión de tareas.
+- Gestionar servidores autohosteados en la nube.
+- Hacer mi página web y las configuraciones que conlleve.
+- Programar algo que crea que necesite.
 
 ## Sobre mí
-Siempre me han **apasionado** los **ordenadores** y **crear cosas** desde pequeño y **no me canso** de ello. 
-Soy una esponja de informacion y **adoro aprender**. Aprendo sobre muchas materias distintas por gusto **en mis tiempos libres**, entre ellas informática, psicología y ajedrez. 
+Siempre me han **apasionado** los **ordenadores** desde pequeño. Siempre me han dicho que **tengo un don con ellos**, aunque yo creo que solo hay que **leer las cosas** y **hacer lo que te pone**...
 
-Tengo 19 años y muchas ganas de hacer feliz a la gente creando soluciones de software.
+Soy una **esponja** de información y **adoro aprender**. Aprendo sobre muchas materias distintas por gusto **en mis tiempos libres**, entre ellas informática, psicología y ajedrez. 
+
+¡Tengo **19 años** y muchas ganas de **hacer feliz** a la gente creando **soluciones de software!**.
 
 <!--
 # Times my profile has been visited
