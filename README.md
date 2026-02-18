@@ -17,11 +17,14 @@ Soy un desarrollador **perfeccionista** por vocación y **explorador** por distr
 ## Lenguajes que sé
  [![Skills](https://skillicons.dev/icons?i=kotlin,mysql,java,html,css)](https://skillicons.dev)
 
+<!--
 ## Lenguajes que no sé bien y me gustan
   [![Skills](https://skillicons.dev/icons?i=rust,bash)](https://skillicons.dev)
-
+-->
+<!--
 ## Herramientas que he usado
  [![Skills](https://skillicons.dev/icons?i=git,docker,ubuntu,figma,vscode,windows,linux)](https://skillicons.dev)
+ -->
 
  ## El stack que quiero usar
  [![Skills](https://skillicons.dev/icons?i=kotlin,ktor,mysql,git,docker)](https://skillicons.dev)
