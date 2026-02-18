@@ -2,8 +2,9 @@
 Soy un desarrollador **perfeccionista** por vocación y **explorador** por distracción. Principalmente me centro en el desarrollo **backend**, aunque también tengo conocimientos básicos de **desarrollo de UX/UI**. 
 
 <div align="center">
- 
+ <!--
  ![Mis Estadísticas](https://github.com/wDona/wDona/blob/main/stats.svg)
+ -->
  
 ![Lenguajes](https://github.com/wDona/wDona/blob/main/top-langs.svg)
 
