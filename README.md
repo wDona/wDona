@@ -23,8 +23,10 @@ Soy un desarrollador **perfeccionista** por vocación y **explorador** por distr
 ## Herramientas que he usado
  [![Skills](https://skillicons.dev/icons?i=git,docker,ubuntu,figma,vscode,windows,linux)](https://skillicons.dev)
 
- ## Cual quiero que sea mi stack
+ ## El stack que quiero usar
  [![Skills](https://skillicons.dev/icons?i=kotlin,ktor,mysql,git,docker)](https://skillicons.dev)
+
+ Estoy abierto a usar otros lenguajes
 
 ## Sobre mí
 Siempre me han **apasionado** los **ordenadores** y **crear cosas** desde pequeño y **no me canso** de ello. **Adoro aprender**, nunca estoy quieto. Aprendo sobre muchas materias distintas por gusto **en mis tiempos libres**, entre ellas informática, psicología y ajedrez. 
