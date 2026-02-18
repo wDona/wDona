@@ -43,7 +43,7 @@ La experiencia que yo gano **no** creo que sea **exactamente** como la que todo 
 Para mí, la informática es un **estilo de vida**. Eso implica que hago mis quehaceres laborales o académicos, llego a casa, y en mi **tiempo libre** a menudo acabo **haciendo cosas relacionadas con la informática**. 
 
 ### Ejemplos de esto:
-- Automatizar gestión de tareas.
+- Automatizar planificación tareas/trabajos.
 - Gestionar servidores autohosteados en la nube.
 - Hacer mi página web y las configuraciones que conlleve.
 - Programar algo que crea que necesite.
