@@ -33,10 +33,18 @@ Soy un desarrollador **perfeccionista** por vocación y **explorador** por distr
  *Estoy abierto a usar otros lenguajes; Rust como preferencia de lenguaje de bajo nivel*
 
 ## Experiencia
-Tengo 19 años y soy una esponja de información. Llevo alrededor de 4 años estando muy cercano al mundo de la programación en mi vida personal de los cuales 2 de ellos de forma academica y 8 meses (3 dias a la semana) de prácticas; 3 meses en una empresa de desarrollo de aplicaciones web y los 5 restantes en otra de desarrollo de aplicaciones multiplataforma, web y controles de acceso (físicos) a petición de cliente.
+- 4 años en total muy cercano al mundo de la programación en mi vida personal
+ - 2 de ellos de forma académica
+ - 8 meses (3 días a la semana) de FEOE
+  - 3 meses: Desarrollo de aplicaciones web con Wordpress (plugins)
+  - 5 meses: Desarrollo de aplicaciones multiplataforma y controles de acceso (físicos) a petición de cliente.
+ - +1.5~ años autodidacta por entretenimiento 
 
 ## Sobre mí
-Siempre me han **apasionado** los **ordenadores** y **crear cosas** desde pequeño y **no me canso** de ello. **Adoro aprender**, nunca estoy quieto. Aprendo sobre muchas materias distintas por gusto **en mis tiempos libres**, entre ellas informática, psicología y ajedrez. 
+Siempre me han **apasionado** los **ordenadores** y **crear cosas** desde pequeño y **no me canso** de ello. 
+Soy una esponja de informacion y **adoro aprender**. Aprendo sobre muchas materias distintas por gusto **en mis tiempos libres**, entre ellas informática, psicología y ajedrez. 
+
+Tengo 19 años y muchas ganas de hacer feliz a la gente creando soluciones de software.
 
 <!--
 # Times my profile has been visited
