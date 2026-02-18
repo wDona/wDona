@@ -39,7 +39,7 @@ Soy un desarrollador **perfeccionista** por vocación y **explorador** por distr
       - **5 meses FEOE**: Desarrollo de aplicaciones multiplataforma y controles de acceso (físicos) a petición de cliente. (3 días a la semana)
   - **+1.5~ años** autodidacta por entretenimiento.
 
-La experiencia que yo gano **no** creo que sea **exactamente** como la que todo el mundo creería que se gana, la de **"Hago mis 8h y me voy"**. 
+La experiencia que yo gano **no** creo que sea **exactamente** como la que todo el mundo creería que se gana, la de **"Hago mis 6-8h y me voy"**. 
 Para mí, la informática es un **estilo de vida**. Eso implica que hago mis quehaceres laborales o académicos, llego a casa, y en mi **tiempo libre** a menudo acabo **haciendo cosas relacionadas con la informática**. 
 
 ### Ejemplos de esto:
