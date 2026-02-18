@@ -46,6 +46,7 @@ Para mí, la informática es un **estilo de vida**. Eso implica que hago mis que
 - Automatizar planificación tareas/trabajos.
 - Gestionar servidores autohosteados en la nube.
 - Hacer mi página web y las configuraciones que conlleve.
+- Configurar mi dominio para uso personal (correo, web, servicios...)
 - Programar algo que crea que necesite.
 
 ## Sobre mí
