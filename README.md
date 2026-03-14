@@ -1,7 +1,9 @@
 # ¡Hola! ¡Soy Fernando! 
 Soy un desarrollador **perfeccionista** por vocación y **explorador** por distracción. Principalmente me centro en el desarrollo **backend**, aunque también tengo conocimientos básicos de **desarrollo de UX/UI**. 
+
 <a href="https://wdona.dev" target="_blank">
 <div align="left">
+ 
  <!--
  ![Mis Estadísticas](https://github.com/wDona/wDona/blob/main/stats.svg)
  -->
