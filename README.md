@@ -12,7 +12,10 @@ Soy un desarrollador **perfeccionista** por vocación y **explorador** por distr
 </div>
 </a>
 
-**fernando@wdona.dev**
+fernando@wdona.dev
+
+[![Enviar mail](https://img.shields.io/badge/enviar%20mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando@wdona.dev)
+
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="top" alt="Lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wDona&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&theme=midnight-purple">
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=MiauDona&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&show=revithemeheme=midnight-purple"> 
