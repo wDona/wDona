@@ -38,7 +38,7 @@ Soy un desarrollador **perfeccionista** por vocación y **explorador** por distr
   - **2-3 de ellos** de forma académica (ESO, Grado Medio, Grado Superior).
       - **3 meses FEOE**: Desarrollo de aplicaciones web con Wordpress (plugins). (3 días a la semana)
       - **5 meses FEOE**: Desarrollo de aplicaciones multiplataforma y controles de acceso (físicos) a petición de cliente. (3 días a la semana)
-  - **+1.5~ años** autodidacta por entretenimiento.
+  - **+1,5~ años** autodidacta por entretenimiento.
 
 La experiencia que yo gano **no** creo que sea **exactamente** como la que todo el mundo creería que se gana, la de **"Hago mis 6-8h y me voy"**. 
 Para mí, la informática es un **estilo de vida**. Eso implica que hago mis quehaceres laborales o académicos, llego a casa, y en mi **tiempo libre** a menudo acabo **haciendo cosas relacionadas con la informática**. 
@@ -57,9 +57,3 @@ Soy una **esponja** de información y **adoro aprender**. Aprendo sobre muchas m
 
 ¡Tengo **19 años** y muchas ganas de **hacer feliz** a la gente creando **soluciones de software!**.
 
-<!--
-# Times my profile has been visited
-
- ![Image](https://count.getloli.com/@MiauDona?name=MiauDona&theme=booru-lewd&padding=7&offset=0&align=top&scale=1.6&pixelated=1&darkmode=auto&prefix=0) 
- <a href="https://github.com/anuraghazra/github-readme-stats"></a> 
--->
