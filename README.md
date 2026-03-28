@@ -60,7 +60,7 @@ Para mí, la informática es un **estilo de vida**. Eso implica que hago mis que
  *Estoy abierto a usar otros lenguajes; Rust como preferencia de lenguaje de bajo nivel.*
 
 ## Sobre mí
-Siempre me han **apasionado** los **ordenadores** desde pequeño. Siempre me han dicho que **tengo un don con ellos**, aunque yo creo que solo hay que **leer las cosas** y **hacer lo que te pone**...
+Siempre me han **apasionado** los **ordenadores** desde pequeño y me han dicho que **tengo un don con ellos**, aunque yo siempre he creido que solo hay que **leer las cosas** y **hacer lo que te pone**...
 
 Soy una **esponja** de información y **adoro aprender**. Aprendo sobre muchas materias distintas por gusto **en mis tiempos libres**, entre ellas informática, psicología y ajedrez. 
 
