@@ -43,12 +43,16 @@ fernando@wdona.dev
 La experiencia que yo gano **no** creo que sea **exactamente** como la que todo el mundo creería que se gana, la de **"Hago mis 6-8h y me voy"**. 
 Para mí, la informática es un **estilo de vida**. Eso implica que hago mis quehaceres laborales o académicos, llego a casa, y en mi **tiempo libre** a menudo acabo **haciendo cosas relacionadas con la informática**. 
 
+<!--
+
 ### Ejemplos de esto:
 - Automatizar planificación tareas/trabajos.
 - Gestionar servidores autohosteados en la nube.
 - Hacer mi página web y las configuraciones que conlleve.
 - Configurar mi dominio para uso personal (correo, web, servicios...)
 - Programar algo que crea que necesite.
+
+  -->
 
  ## Mi stack
  [![Skills](https://skillicons.dev/icons?i=kotlin,ktor,java,mysql,git,docker,html,css)](https://skillicons.dev)
