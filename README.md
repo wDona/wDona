@@ -33,11 +33,6 @@ fernando@wdona.dev
  [![Skills](https://skillicons.dev/icons?i=git,docker,ubuntu,figma,vscode,windows,linux)](https://skillicons.dev)
  -->
 
- ## Mi stack
- [![Skills](https://skillicons.dev/icons?i=kotlin,ktor,java,mysql,git,docker,html,css)](https://skillicons.dev)
-
- *Estoy abierto a usar otros lenguajes; Rust como preferencia de lenguaje de bajo nivel.*
-
 ## Experiencia
 - **4 años** en total muy cercano al mundo de la programación en mi vida personal.
   - **2-3 de ellos** de forma académica (ESO, Grado Medio, Grado Superior).
@@ -54,6 +49,11 @@ Para mí, la informática es un **estilo de vida**. Eso implica que hago mis que
 - Hacer mi página web y las configuraciones que conlleve.
 - Configurar mi dominio para uso personal (correo, web, servicios...)
 - Programar algo que crea que necesite.
+
+ ## Mi stack
+ [![Skills](https://skillicons.dev/icons?i=kotlin,ktor,java,mysql,git,docker,html,css)](https://skillicons.dev)
+
+ *Estoy abierto a usar otros lenguajes; Rust como preferencia de lenguaje de bajo nivel.*
 
 ## Sobre mí
 Siempre me han **apasionado** los **ordenadores** desde pequeño. Siempre me han dicho que **tengo un don con ellos**, aunque yo creo que solo hay que **leer las cosas** y **hacer lo que te pone**...
