@@ -64,5 +64,5 @@ Siempre me han **apasionado** los **ordenadores** desde pequeño y me han dicho 
 
 Soy una **esponja** de información y **adoro aprender**. Aprendo sobre muchas materias distintas por gusto **en mis tiempos libres**, entre ellas informática, psicología y ajedrez. 
 
-¡Tengo **19 años** y muchas ganas de **hacer feliz** a la gente creando **soluciones de software!**.
+¡Tengo **19 años** y muchas ganas de **hacer feliz** a la gente creando **soluciones de software**!
 
