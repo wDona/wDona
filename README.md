@@ -38,6 +38,9 @@ fernando@wdona.dev
   - **2-3 de ellos** de forma académica (ESO, Grado Medio, Grado Superior).
       - **3 meses FEOE**: Desarrollo de aplicaciones web con Wordpress (plugins). (3 días a la semana)
       - **5 meses FEOE**: Desarrollo de aplicaciones multiplataforma y controles de acceso (físicos) a petición de cliente. (3 días a la semana)
+
+        (FEOE: Formacion en Empresa u Organismo Equiparado)
+
   - **+1,5~ años** autodidacta por entretenimiento.
 
 La experiencia que yo gano **no** creo que sea **exactamente** como la que todo el mundo creería que se gana, la de **"Hago mis 6-8h y me voy"**. 
