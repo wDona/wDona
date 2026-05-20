@@ -1,5 +1,21 @@
-# ¡Hola! ¡Soy Fernando! 
-Soy un desarrollador **perfeccionista** por vocación y **explorador** por distracción. Principalmente me centro en el desarrollo **backend**, aunque también tengo conocimientos básicos de **desarrollo de UX/UI**. 
+# ¡Hey! Soy Fernando
+Soy un desarrollador **perfeccionista** por vocación y **explorador** por distracción. Principalmente me centro en el desarrollo **backend**, aunque también tengo toques de **diseño de UX/UI**. 
+
+## Formación y experiencia
+- Tengo un Grado Medio en Sistemas Microinformáticos y Redes y un Grado Superior en Desarrollo de Aplicaciones Multiplataforma. 
+- He realizado dos periodos de Formación en Empresa relacionados con la programación. 
+  - 3 meses en Valentina System.
+  - 5 meses en WUL4. 
+- He trabajado con 3 proyectos que estarán en producción y algunos proyectos internos de estas empresas.  
+
+[![Enviar mail](https://img.shields.io/badge/enviar%20mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando@wdona.dev)
+
+fernando@wdona.dev
+
+## Mi stack
+[![Skills](https://skillicons.dev/icons?i=kotlin,ktor,java,mysql,git,docker,html,css)](https://skillicons.dev)
+
+*Estoy abierto a usar otros lenguajes; Rust como preferencia de lenguaje de bajo nivel.*
 
 <a href="https://wdona.dev" target="_blank">
 <div align="left">
@@ -7,65 +23,13 @@ Soy un desarrollador **perfeccionista** por vocación y **explorador** por distr
  <!--
  ![Mis Estadísticas](https://github.com/wDona/wDona/blob/main/stats.svg)
  -->
+ 
  ![Lenguajes](https://github.com/wDona/wDona/blob/main/top-langs.svg)
-
+ 
 </div>
 </a>
 
-fernando@wdona.dev
-
-[![Enviar mail](https://img.shields.io/badge/enviar%20mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando@wdona.dev)
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="top" alt="Lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wDona&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&theme=midnight-purple">
-<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=MiauDona&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&show=revithemeheme=midnight-purple"> 
-</a> -->
-<!--
-## Lenguajes que sé
- [![Skills](https://skillicons.dev/icons?i=kotlin,mysql,java,html,css)](https://skillicons.dev)
--->
-<!--
-## Lenguajes que no sé bien y me gustan
-  [![Skills](https://skillicons.dev/icons?i=rust,bash)](https://skillicons.dev)
--->
-<!--
-## Herramientas que he usado
- [![Skills](https://skillicons.dev/icons?i=git,docker,ubuntu,figma,vscode,windows,linux)](https://skillicons.dev)
- -->
-
-## Experiencia
-- **4 años** en total muy cercano al mundo de la programación en mi vida personal.
-  - **2-3 de ellos** de forma académica (ESO, Grado Medio, Grado Superior).
-      - **3 meses FEOE**: Desarrollo de aplicaciones web con Wordpress (plugins). (3 días a la semana)
-      - **5 meses FEOE**: Desarrollo de aplicaciones multiplataforma y controles de acceso (físicos) a petición de cliente. (3 días a la semana)
-
-        (FEOE: Formacion en Empresa u Organismo Equiparado)
-
-  - **+1,5~ años** autodidacta por entretenimiento.
-
-La experiencia que yo gano **no** creo que sea **exactamente** como la que todo el mundo creería que se gana, la de **"Hago mis 6-8h y me voy"**. 
-Para mí, la informática es un **estilo de vida**. Eso implica que hago mis quehaceres laborales o académicos, llego a casa, y en mi **tiempo libre** a menudo acabo **haciendo cosas relacionadas con la informática**. 
-
-<!--
-
-### Ejemplos de esto:
-- Automatizar planificación tareas/trabajos.
-- Gestionar servidores autohosteados en la nube.
-- Hacer mi página web y las configuraciones que conlleve.
-- Configurar mi dominio para uso personal (correo, web, servicios...)
-- Programar algo que crea que necesite.
-
-  -->
-
- ## Mi stack
- [![Skills](https://skillicons.dev/icons?i=kotlin,ktor,java,mysql,git,docker,html,css)](https://skillicons.dev)
-
- *Estoy abierto a usar otros lenguajes; Rust como preferencia de lenguaje de bajo nivel.*
-
 ## Sobre mí
-Siempre me han **apasionado** los **ordenadores** desde pequeño y me han dicho que **tengo un don con ellos**, aunque yo siempre he creido que solo hay que **leer las cosas** y **hacer lo que te pone**...
+Los ordenadores y yo "nos entendemos" desde que era pequeño. Siempre digo que la mitad de la informática es saber leer lo que te dicen los errores; y la otra mitad, pensar fuera de la caja cuando los errores no te dicen nada.
 
-Soy una **esponja** de información y **adoro aprender**. Aprendo sobre muchas materias distintas por gusto **en mis tiempos libres**, entre ellas informática, psicología y ajedrez. 
-
-¡Tengo **19 años** y muchas ganas de **hacer feliz** a la gente creando **soluciones de software**!
-
+Actualmente dedico mucho tiempo de mis ratos libres a aprender informática y psicología entre una variedad de cosas. 
