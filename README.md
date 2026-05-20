@@ -1,5 +1,5 @@
 # ¡Hey! Soy Fernando
-Soy un desarrollador **perfeccionista** por vocación y **explorador** por distracción. Principalmente me centro en el desarrollo **backend**, aunque también tengo toques de **diseño de UX/UI**. 
+Un desarrollador **perfeccionista** por vocación y **explorador** por distracción. Principalmente me centro en el desarrollo **backend**, aunque también tengo toques de **diseño de UX/UI**. 
 
 ## Formación y experiencia
 - Tengo un Grado Medio en Sistemas Microinformáticos y Redes y un Grado Superior en Desarrollo de Aplicaciones Multiplataforma. 
