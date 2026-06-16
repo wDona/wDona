@@ -30,6 +30,6 @@ fernando@wdona.dev
 </a>
 
 ## Sobre mí
-Los ordenadores y yo "nos entendemos" desde que era pequeño. Siempre digo que la mitad de la informática es saber leer lo que te dicen los errores; y la otra mitad, pensar fuera de la caja cuando los errores no te dicen nada.
+Los ordenadores y yo "nos entendemos" desde que era pequeño. Pienso que la mitad de la informática es saber leer lo que te dicen los errores; y la otra mitad, pensar fuera de la caja cuando los errores no te dicen nada.
 
 Actualmente dedico mucho tiempo de mis ratos libres a aprender informática y psicología entre una variedad de cosas. 
