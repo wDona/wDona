@@ -6,7 +6,7 @@ Un desarrollador **perfeccionista** por vocación y **explorador** por afición.
 - He realizado dos periodos de Formación en Empresa relacionados con la programación. 
   - 3 meses en Valentina System.
   - 5 meses en WUL4. 
-- He trabajado con 3 proyectos que estarán en producción y algunos proyectos internos de estas empresas.  
+- He trabajado en 5 proyectos que estarán en producción e internos de estas empresas.  
 
 [![Enviar mail](https://img.shields.io/badge/enviar%20mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando@wdona.dev)
 
