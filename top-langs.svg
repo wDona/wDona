@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="187.08"
+          width="187.02"
           height="8"
           fill="#A97BFF"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="187.08"
+          x="187.02"
           y="0"
-          width="36.68"
+          width="36.66"
           height="8"
           fill="#b07219"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="223.76000000000002"
+          x="223.68"
           y="0"
-          width="13.74"
+          width="13.73"
           height="8"
           fill="#222c37"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="237.50000000000003"
+          x="237.41"
           y="0"
-          width="12.5"
+          width="12.59"
           height="8"
           fill="#ff5a03"
         />
@@ -171,7 +171,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin 74.83%
+        Kotlin 74.81%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -192,7 +192,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#ff5a03" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Astro 5.00%
+        Astro 5.03%
       </text>
     </g>
   </g></g>
