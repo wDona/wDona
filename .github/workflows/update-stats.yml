@@ -7,6 +7,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -16,6 +18,8 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=midnight-purple
           path: stats.svg
+          token: ${{ secrets.STATS_TOKEN || github.token }}
+          fail_on_error: true
 
       - name: Generate Top Languages Card
         uses: readme-tools/github-readme-stats-action@v1
@@ -23,6 +27,8 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=4&theme=midnight-purple
           path: top-langs.svg
+          token: ${{ secrets.STATS_TOKEN || github.token }}
+          fail_on_error: true
 
       - name: Commit Changes
         run: |
@@ -30,4 +36,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add *.svg
           git commit -m "Update stats" || exit 0
-          git push   
+          git push
