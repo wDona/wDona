@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="180.3"
+          width="188.02"
           height="8"
           fill="#A97BFF"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="180.3"
+          x="188.02"
           y="0"
-          width="35.08"
+          width="36.58"
           height="8"
           fill="#b07219"
         />
@@ -148,21 +148,21 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="215.38"
+          x="224.60000000000002"
           y="0"
-          width="21.38"
+          width="13.8"
           height="8"
-          fill="#ff5a03"
+          fill="#ff3e00"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="236.76"
+          x="238.40000000000003"
           y="0"
-          width="13.24"
+          width="11.59"
           height="8"
-          fill="#ff3e00"
+          fill="#ff5a03"
         />
       
       
@@ -171,28 +171,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin 72.12%
+        Kotlin 75.21%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 14.03%
+        Java 14.63%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#ff5a03" />
+      <circle cx="5" cy="6" r="5" fill="#ff3e00" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Astro 8.55%
+        Svelte 5.52%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#ff3e00" />
+      <circle cx="5" cy="6" r="5" fill="#ff5a03" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Svelte 5.29%
+        Astro 4.64%
       </text>
     </g>
   </g></g>
